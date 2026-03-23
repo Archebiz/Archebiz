@@ -1,16 +1,68 @@
-## Hi there 👋
+# 👋 Hola, soy Adrian Salazar
 
-<!--
-**Archebiz/Archebiz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Desarrollador de software con enfoque en **.NET (C#)** y experiencia en desarrollo **fullstack** usando **Angular + TypeScript**.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Sobre mí
+
+- 🎓 Bachiller en Ingeniería Civil (UNMSM), reconvertido a software
+- 🧠 +3 años de experiencia en desarrollo backend
+- ⚙️ Enfocado en arquitectura, APIs y sistemas empresariales
+- 📈 Buscando crecer hacia oportunidades internacionales (USA / remoto)
+
+---
+
+## 🧰 Tech Stack
+
+### Backend
+- .NET Core / .NET
+- C#
+- Entity Framework Core
+- PostgreSQL / SQL Server
+- MariaDB
+- MySQL
+- Laravel
+- JWT Authentication
+
+### Frontend
+- Angular
+- TypeScript
+- HTML / CSS
+- PrimeNg
+- .NET Framework
+
+### Otros
+- Docker
+- Kubernetes (nivel básico/intermedio)
+- Firebase Auth
+- OpenXML (generación de Excel)
+- VBA / Access (automatización legacy)
+- Railways
+
+## 🎯 Actualmente aprendiendo
+
+- 🔐 Seguridad y redes
+- 🧱 Design Systems
+- ☁️ Mejores prácticas para escalar aplicaciones backend
+- 🕶 Principios SOLID
+
+---
+
+## 🧠 Intereses
+
+- Arquitectura de software
+- Backend escalable
+- Automatización de procesos empresariales
+- Oportunidades remotas internacionales
+
+---
+
+## 📫 Contacto
+
+- GitHub: https://github.com/Archebiz
+- LinkedIn:[(AdrianSalazarPadilla)](https://www.linkedin.com/in/adriansalazarpadilla/)
+
+---
+
+⭐ Siempre abierto a colaborar en proyectos interesantes o retos técnicos.
