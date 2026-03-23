@@ -64,5 +64,10 @@
 - LinkedIn:[(AdrianSalazarPadilla)](https://www.linkedin.com/in/adriansalazarpadilla/)
 
 ---
+### GitHub Stats
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Archebiz&theme=one-dark-pro)](https://git.io/streak-stats)
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=archebiz&show_icons=true&theme=radical)
+
 
 ⭐ Siempre abierto a colaborar en proyectos interesantes o retos técnicos.
